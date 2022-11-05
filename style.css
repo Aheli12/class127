@@ -1,0 +1,54 @@
+.heading{
+    margin: 0px;
+    font-size: 30px;
+    font-style: bold;
+    color: black;
+    width: 100%; 
+}
+.note{
+    font-size: 25px;
+    color: green;
+    font-style: italic;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float:left;
+}
+.dsimg{
+    width: 200px;
+    border-radius:100px;
+    
+}
+.dsh3{
+    color:cornsilk;
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_speed{
+    float:right;
+}
+.volimg{
+    width: 200px;
+    border-radius:100px;
+    
+}
+.volh3{
+    color:cornsilk;
+    font-size: 25px;
+    margin: 15px;
+}
+.play_button{
+    width: 180px;
+    height:70px;
+    font-size: 25px;
+    background-color: rgb(246, 248, 81);
+    border:5px dashed black;
+    border-radius: 20px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
